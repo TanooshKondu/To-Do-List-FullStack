@@ -1,4 +1,4 @@
-# To-Do-List-FullStack
+# Need to install nodejs and reactjs modules to run this application, please read the readme carefully for execution.
 
 
 # To-Do List Application 📋
