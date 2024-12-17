@@ -131,13 +131,13 @@ Test the Application:
 Open the application in your browser at http://localhost:5173.
 
 
+<img width="440" alt="Screenshot 2024-12-18 030507" src="https://github.com/user-attachments/assets/227d51bb-debf-4c19-87fc-033d69b2dbeb" />
 
 
 ########ER Diagram 📊
 The Entity-Relationship (ER) Diagram for the To-Do List Application is as follows:
 
 plaintext
-Copy code
 +------------------+
 |      tasks       |
 +------------------+
@@ -152,10 +152,10 @@ id: Primary key (auto-incremented).
 title: The title of the task (VARCHAR).
 description: Details about the task (TEXT).
 
+<img width="403" alt="Screenshot 2024-12-18 030446" src="https://github.com/user-attachments/assets/5c118c3c-1c4b-4d77-bf7e-92a89f4dd105" />
 
 ########Project Structure 📂
 plaintext
-Copy code
 ToDo/
 │
 ├── Backend/
